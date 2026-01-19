@@ -1,3 +1,9 @@
+---
+canonical: https://docs.tally.xyz/token-sales
+description: Compare LBP, CCA, and fixed-price token sale mechanisms
+---
+
+> Official documentation: [docs.tally.xyz/token-sales](https://docs.tally.xyz/token-sales)
 # LBP vs CCA vs Fixed-Price: Choosing a Token Sale Mechanism
 
 The mechanism you choose for your token sale shapes everything: who participates, how price is discovered, how demand is handled, and what happens post-sale.
