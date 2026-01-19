@@ -1,3 +1,9 @@
+---
+canonical: https://docs.tally.xyz/token-sales/compliance](https://docs.tally.xyz/token-sales
+description: Token sale compliance guide covering KYC, geo-blocking, and vesting
+---
+
+> Official documentation: [docs.tally.xyz/token-sales/compliance](https://docs.tally.xyz/token-sales/compliance)
 # Token Sale Compliance Guide
 
 Compliance isn't optional anymore. The 2017 ICO era of "launch and hope" is over. Modern token sales require identity verification, geographic restrictions, vesting schedules, and clear legal frameworks.
